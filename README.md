@@ -1,5 +1,5 @@
 # Calculadora
-Calculadora feita utilizando classes ES6,Flexbox e Grade em CSS.
+Calculadora feita utilizando classes ES6, Flexbox e Grades em CSS.
 
 A Calculadora possui botão "DEL" que apaga individualmente o caracter inserido e "encadeia" as operações realizadas.
 
