@@ -8,6 +8,18 @@ A Calculadora possui botão "DEL" que apaga individualmente o caracter inserido 
 
 <div align="center">
   
+página web
+  
+</div>
+
+<div align="center">
+  
 ![apresentacao](https://user-images.githubusercontent.com/93357621/203868781-a675bf49-541d-4205-97f0-ad65831c2a41.gif)
+  
+</div>
+
+<div align="center">
+  
+em execução
   
 </div>
